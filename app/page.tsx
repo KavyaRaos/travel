@@ -522,7 +522,7 @@ export default function Home() {
           <div className="absolute">
             <div className="grid grid-flow-row mt-32 ml-64 place-items-center">
               <div className="text-white font-semibold text-6xl text-center">
-                Let's get to know the azores
+                Let us get to know the azores
               </div>
               {/* Book now button */}
               <motion.div 

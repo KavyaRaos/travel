@@ -407,7 +407,7 @@ export default function Home() {
           <div>
             <Image
               className="my-10 rounded-lg overflow-hidden h-[700px]"
-              src={"/images/Land2.png"}
+              src={"/images/land2.png"}
               alt={""}
               height={900}
               width={2000}
